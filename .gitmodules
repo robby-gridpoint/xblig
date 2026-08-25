@@ -1,3 +1,7 @@
 [submodule "subprojects/Indie-Games"]
 	path = subprojects/Indie-Games
 	url = https://github.com/mortlockpaul-arch/Indie-Games.git
+
+[submodule "subprojects/RetroShelf"]
+	path = subprojects/RetroShelf
+	url = https://github.com/robby-gridpoint/RetroShelf.git
