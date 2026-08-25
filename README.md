@@ -9,3 +9,4 @@
 | Flappy Monkey | ✅ **Completed** | <img src="assets/flappy-monkey.jpg" width="120"> | Buildable source provided |
 | HEXOTHERMIC | 🔴 Incomplete | <img src="assets/HEXOTHERMIC.webp" width="120"> | requested by @severetr |
 | OLU | 🔴 Incomplete | <img src="assets/OLU.jpg" width="120"> | requested by @severetr |
+| Gamerbots Third-Robot Shooting | 🔴 Incomplete | <img src="assets/Gamerbots.png" width="120"> | requested by @delphinusdown |
