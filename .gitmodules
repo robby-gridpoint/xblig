@@ -1,0 +1,3 @@
+[submodule "subprojects/Indie-Games"]
+	path = subprojects/Indie-Games
+	url = https://github.com/mortlockpaul-arch/Indie-Games.git
